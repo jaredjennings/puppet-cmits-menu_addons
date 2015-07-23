@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/menu_addons",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the menu_addons module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-menu_addons",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-menu_addons",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-menu_addons/issues",
+  "dependencies": []
+}
+
